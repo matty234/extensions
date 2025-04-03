@@ -18,6 +18,7 @@ spec:
     - ecr-credential-provider
     - fuse3
     - gasket-driver
+    - mellanox-ofed
     - glibc
     - gvisor
     - gvisor-debug

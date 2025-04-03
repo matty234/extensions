@@ -77,6 +77,7 @@ TARGETS += glibc
 TARGETS += gvisor
 TARGETS += gvisor-debug
 TARGETS += hello-world-service
+TARGETS += mellanox-ofed
 TARGETS += i915
 TARGETS += intel-ice-firmware
 TARGETS += intel-ucode
